@@ -1,0 +1,53 @@
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Bot Application.dll.config
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Bot Application.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Bot Application.pdb
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Autofac.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Chronic.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.Bot.Builder.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.Bot.Connector.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Newtonsoft.Json.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\System.Net.Http.Formatting.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\System.Web.Http.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\System.Web.Http.WebHost.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Autofac.xml
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.Bot.Builder.xml
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.Bot.Connector.xml
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\Newtonsoft.Json.xml
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\System.Net.Http.Formatting.xml
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\System.Web.Http.xml
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\System.Web.Http.WebHost.xml
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\obj\Debug\preBots.csprojResolveAssemblyReference.cache
+c:\users\tyamamoto\source\repos\preBots\preBots\obj\Debug\preBots.csproj.CoreCompileInputs.cache
+c:\users\tyamamoto\source\repos\preBots\preBots\obj\Debug\Bot Application.dll
+c:\users\tyamamoto\source\repos\preBots\preBots\obj\Debug\Bot Application.pdb
+C:\Users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\tyamamoto\source\repos\preBots\preBots\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\tyamamoto\source\repos\preBots\preBots\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\tyamamoto\source\repos\preBots\preBots\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\tyamamoto\source\repos\preBots\preBots\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
